@@ -1,4 +1,4 @@
-# bad-poets-society
+# neural-poetics
 
 _Note: The Logbook is made as part of the Jupyter Notebook for simplicity_
 
