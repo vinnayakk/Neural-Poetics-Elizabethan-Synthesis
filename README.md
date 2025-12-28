@@ -1,5 +1,4 @@
 # bad-poets-society
-Poetry generator for Computational creativity Assignment.
 
 _Note: The Logbook is made as part of the Jupyter Notebook for simplicity_
 
